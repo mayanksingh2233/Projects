@@ -1,1 +1,1 @@
-# Projects
+# Stock price prediction Projects
